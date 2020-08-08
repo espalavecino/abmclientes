@@ -1,0 +1,29 @@
+.fa-edit {
+    border: 1px solid #007bff;
+    border-radius: 40px;
+    font-size: 14px;
+    background-color: #007bff;
+    color: white;
+    padding: 10px 10px;
+}
+
+.fa-trash-alt {
+    border: 1px solid #e90a0ad6;
+    border-radius: 40px;
+    font-size: 14px;
+    background-color: #e90a0ad6;
+    color: white;
+    padding: 10px 12px;
+}
+
+.fa-plus {
+    border: 1px solid #007bff;
+    border-radius: 50px;
+    font-size: 25px;
+    background-color: #007bff;
+    color: white;
+    padding: 13px 14px;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+}
